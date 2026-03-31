@@ -22,7 +22,7 @@
 
 ```python
 maneeswar = {
-    "role":       "Data Analyst | AI Developer | Undergraduate Researcher",
+    "role":       "Data Analyst",
     "college":    "B.Sc. CS with Data Analytics @ Dr. N.G.P. Arts & Science College, Coimbatore",
     "focus":      ["NLP", "Transformer Models", "Full-Stack Web & Android", "Civic Tech"],
     "published":  "CIMA'26 — SRM Institute (in association with UKM, Malaysia)",
