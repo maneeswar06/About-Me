@@ -1,12 +1,10 @@
-# About-Me
-
 <div align="center">
 
 <!-- Dynamic header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Maneeswar%20K%20G&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20NLP%20Researcher&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Maneeswar%20K%20G&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Developer%20%7C%20NLP%20Researcher&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Full-Stack+%2B+Mobile+Developer;NLP+%26+Transformer+Model+Enthusiast;International+Conference+Presenter;Fake+News+Fighter+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+Developer;Turning+Data+into+Decisions+%F0%9F%93%8A;NLP+%26+Transformer+Model+Enthusiast;International+Conference+Presenter;Fake+News+Fighter+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,8 +21,8 @@
 ## 👨‍💻 About Me
 
 ```python
-maneeswar = { 
-    "role":       "AI & Full-Stack Developer | Undergraduate Researcher",
+maneeswar = {
+    "role":       "Data Analyst | AI Developer | Undergraduate Researcher",
     "college":    "B.Sc. CS with Data Analytics @ Dr. N.G.P. Arts & Science College, Coimbatore",
     "focus":      ["NLP", "Transformer Models", "Full-Stack Web & Android", "Civic Tech"],
     "published":  "CIMA'26 — SRM Institute (in association with UKM, Malaysia)",
