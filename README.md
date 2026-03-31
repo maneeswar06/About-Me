@@ -143,7 +143,7 @@ English + Tamil fake news detector using RoBERTa (93.2% acc), DistilRoBERTa (91.
 |---|---|---|
 | 🥇 **1st Prize** – Paper Presentation (CrediAI) | TECHTRON'26, PPG College of Arts & Science | Feb 2026 |
 | 🥉 **3rd Prize** – HACKAPPSTERS 2026 (CrediAI v2) | Sri Ramakrishna College × L&T EduTech | 2026 |
-| 📄 **International Conference Paper** – Bloom's Taxonomy NLP | CIMA'26, SRM × UKM Malaysia | Mar 2026 |
+| 📄 **Certificate of Presentation** – Bloom's Taxonomy NLP Paper | CIMA-2026, SRM IST × AIMST University, Malaysia | 12–13 Mar 2026 |
 | 🎤 **Resource Person** – Streamlit ML Deployment Session | Dr. N.G.P. Arts & Science College | Mar 2026 |
 | 🏆 **Datathon 2K26** – Dashboards with Python & Tableau | Sankara College of Science and Commerce | Jan 2026 |
 | 🔐 **National Level Cyberathon 2026** – NLP Fake News Model | KG College of Arts and Science | Jan 2026 |
